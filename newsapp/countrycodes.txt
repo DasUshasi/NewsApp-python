@@ -1,0 +1,54 @@
+ Venezuela : ve  
+ Argentina : ar  
+ Australia : au  
+ Austria : at  
+ Belgium : be  
+ Brazil : br  
+ Bulgaria : bg  
+ Canada : ca  
+ China : cn  
+ Colombia : co  
+ Czech Republic : cz  
+ Germany : de  
+ Egypt : eg  
+ France : fr  
+ Greece : gr  
+ Hong Kong : hk  
+ Hungary : hu  
+ Indonesia : id  
+ Ireland : ie  
+ Israel : ie  
+ India : in  
+ Italy : it  
+ Japan : jp  
+ Latvia : lv  
+ Lithuania : lt  
+ Mexico : mx  
+ Morocco : ma  
+ Malaysia : my  
+ Netherlands : nl      
+ Nigeria : ng      
+ Norway : no  
+ New Zealand : nz      
+ Philippines : ph  
+ Poland : pl  
+ Portugal : pt  
+ Romania : ro  
+ Russia : ru  
+ Saudi Arabia : sa  
+ Singapore : sg  
+ Sweden : se  
+ Slovenia : si  
+ Slovakia : sk  
+ Thailand : th  
+ Turkey : tr  
+ United States Of America : us  
+ United Arab Emirates : ae  
+ Taiwan : tw  
+ Ukraine : ua  
+ Cuba : cu  
+ United Kingdom : gb  
+ South Africa : za  
+ Switzerland : ch  
+ South Korea : kr  
+ Serbia : rs  
